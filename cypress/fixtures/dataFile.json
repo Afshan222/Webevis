@@ -1,0 +1,35 @@
+{
+  "HiringWithValidData":
+  [
+    {
+    "Name": "Afshan",
+    "Email": "Afshan+2@plastk.ca",
+    "PhoneNumber": "0213467662941",
+    "Companyname": "Webevis",
+    "CompanyWebsite": "https//webevis.com",
+    "SelectResources": "React Js Developer",
+    "Otherdetails": "Qwerty"
+    }
+  ],
+    "HiringwithinvalidData":
+    [
+      {
+        "Name": "xyz",
+        "Email": "Afshanplastk.ca",
+        "PhoneNumber": "0213467662941",
+        "Companyname": "Webevis",
+        "CompanyWebsite": "https//webevis.com",
+        "SelectResources": "React Js Developer",
+        "Otherdetails": "Qwerty"
+        }
+    ],
+    "SchduleCall":
+    [
+      {
+        "Name": "AfshaImtiaz",
+        "Email": "Afshan+2@plastk.ca",
+        "GuestEmail": "Afshan@plastk.ca",
+        "Otherdetails": "Testing"
+      }
+    ]
+  }
